@@ -4,7 +4,7 @@ body {
 }
 
 .part-one {
-    background-image: url(images/donation4.jpg);
+    background-image: linear-gradient(rgba(255, 249, 249, 0.185), rgba(14, 13, 13, 0.952)), url(images/donation4.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-top: 190px;
@@ -12,6 +12,7 @@ body {
     text-align: center;
     background-position: center;
     color: white;
+    background-color: transparent;
 }
 
 
