@@ -1,0 +1,74 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.part-one {
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 190px;
+    padding-bottom: 190px;
+    text-align: center;
+    background-position: center;
+    color: white;
+}
+
+
+#title-one {
+    font-size: 60px;
+}
+
+.first-button {
+    background-color: tomato;
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.first-para {
+    padding-bottom: 40px;
+    font-size: 20px;
+}
+
+.flex-one {
+    display: flex;
+    padding-left: 300px;
+}
+
+.sizing-sec {
+    padding-left: 20px;
+    padding right: 20px;
+}
+
+#sizing-one {
+    text-align: center;
+}
+
+#sizing-para {
+    text-align: center;
+    font-size: 18px;
+}
+
+#border-fix {
+    border-color: rgb(245, 18, 48);
+    border-style: solid;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(243, 209, 209);
+    color: rgb(226, 72, 72);
+}
+
+.sizing-3rd {
+    border-style: inherit;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(202, 199, 199);
+}
+
+input {
+    border: none;
+}
