@@ -32,6 +32,8 @@ body {
 .first-para {
     padding-bottom: 40px;
     font-size: 20px;
+    font-family: sans-serif;
+
 }
 
 .flex-one {
@@ -41,7 +43,7 @@ body {
 
 .sizing-sec {
     padding-left: 20px;
-    padding right: 20px;
+    padding-right: 20px;
 }
 
 #sizing-one {
@@ -51,6 +53,7 @@ body {
 #sizing-para {
     text-align: center;
     font-size: 18px;
+    font-family: sans-serif;
 }
 
 #border-fix {
@@ -66,9 +69,5 @@ body {
     border-style: inherit;
     padding: 30px 25px;
     border-radius: 5px;
-    background-color: rgb(202, 199, 199);
-}
-
-input {
-    border: none;
+    background-color: rgb(202, 198, 199);
 }
