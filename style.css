@@ -31,7 +31,7 @@ body {
 
 .first-para {
     padding-bottom: 40px;
-    font-size: 20px;
+    font-size: 16px;
     font-family: sans-serif;
 
 }
@@ -39,6 +39,7 @@ body {
 .flex-one {
     display: flex;
     padding-left: 300px;
+    margin-top: 30px;
 }
 
 .sizing-sec {
@@ -52,8 +53,10 @@ body {
 
 #sizing-para {
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     font-family: sans-serif;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 #border-fix {
@@ -70,4 +73,36 @@ body {
     padding: 30px 25px;
     border-radius: 5px;
     background-color: rgb(202, 198, 199);
+}
+
+.input-part {
+    padding-left: 320px;
+}
+
+#taka {
+    text-align: center;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-left: 300px;
+    padding-right: 260px;
+    padding-top: 30px;
+    margin-top: 20px;
+    font-size: 15px;
+    text-decoration: solid;
+    color: rgb(165, 163, 163);
+    border-color: rgb(165, 163, 163);
+}
+
+.button-one {
+    margin-left: 320px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    background-color: rgb(226, 68, 40);
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    border: none;
+    padding: 15px 20px;
+    color: white;
 }
