@@ -175,7 +175,7 @@ body {
 }
 
 .input-part-new {
-    margin-left: 460px;
+    margin-left: 500px;
     display: flex;
 }
 
@@ -191,7 +191,6 @@ body {
     color: rgb(97, 97, 97);
     font-weight: 700;
     font-size: 15px;
-    padding-left: 10px;
 }
 
 .button-one-new {
