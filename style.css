@@ -138,9 +138,9 @@ body {
 .gallery-part {
     display: flex;
     size: 20px 18px;
-    margin-left: 350px;
+    margin-left: 370px;
     border: 2px solid;
-    margin-right: 340px;
+    margin-right: 400px;
     color: red;
 }
 
