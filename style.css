@@ -138,9 +138,9 @@ body {
 .gallery-part {
     display: flex;
     size: 20px 18px;
-    margin-left: 370px;
+    margin-left: 400px;
     border: 2px solid;
-    margin-right: 400px;
+    margin-right: 500px;
     color: red;
 }
 
@@ -161,7 +161,7 @@ body {
 
 .sponsors {
     display: flex;
-    margin-left: 280px;
+    margin-left: 320px;
 }
 
 .new-and-new-para-new {
