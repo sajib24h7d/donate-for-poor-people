@@ -140,7 +140,7 @@ body {
     size: 20px 18px;
     margin-left: 400px;
     border: 2px solid;
-    margin-right: 445px;
+    margin-right: 440px;
     color: red;
     border-style: dotted;
 }
@@ -175,7 +175,7 @@ body {
 }
 
 .input-part-new {
-    margin-left: 500px;
+    margin-left: 550px;
     display: flex;
 }
 
