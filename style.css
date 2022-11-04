@@ -142,6 +142,7 @@ body {
     border: 2px solid;
     margin-right: 445px;
     color: red;
+    border-style: dotted;
 }
 
 .image-size-size {
